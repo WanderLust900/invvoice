@@ -1,0 +1,37 @@
+body {
+  font-family: 'Courier New', monospace;
+  padding: 20px;
+}
+
+.form {
+  max-width: 400px;
+  margin-bottom: 30px;
+}
+
+label {
+  display: block;
+  margin: 10px 0 5px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 6px;
+  margin-bottom: 10px;
+}
+
+#receipt {
+  width: 80mm;
+  padding: 10px;
+  border: 1px dashed #000;
+  font-size: 12px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table td {
+  padding: 2px 0;
+  font-size: 12px;
+}
